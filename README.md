@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shane Ramiah 👋
 
-<!--
-**ShaneRamiah/ShaneRamiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools for developers and mobile experiences.
 
-Here are some ideas to get you started:
+## Featured Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DarkSolarizedBrackets](https://github.com/ShaneRamiah/DarkSolarizedBrackets)  
+  Dark Solarized theme for Brackets.
+- [cordova-music-remote-controls](https://github.com/ShaneRamiah/cordova-music-remote-controls)  
+  Cordova plugin that adds remote music controls for Android and iOS.
+
+## Focus Areas
+
+- Developer tooling and editor customization
+- Cross-platform mobile integrations
+- JavaScript and mobile plugin development
